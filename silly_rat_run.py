@@ -17,7 +17,7 @@ MAX_HEALTH = 5
 STEPS_TO_EXIT = 8
 
 EVENTS = [
-    ("a spotlight", "You momentarily become a celebrity. Cameras flash and you strike a pose.'"),
+    ("a spotlight", "You momentarily become a dddcelebrity. Cameras flash and you strike a pose.'"),
     ("a camera cable", "You trip spectacularly and invent modern interpretive dance."),
     ("a very large panda plush", "You mistake it for a chew toy. It does not consent."),
     ("a suspicious-looking sandwich", "It looks like cheese, smells like regret."),
